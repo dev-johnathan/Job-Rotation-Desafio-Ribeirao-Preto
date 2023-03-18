@@ -1,0 +1,8 @@
+Exercicio 3
+
+(a) Sequencia de números impares, a resposta é 9.
+(b) Multiplica o valor anterior por 2, a resposta é 128.
+(c) Eleva-se o valor ao quadrado, a resposta é 49.
+(d) Eleva-se o valor ao quadrado, a resposta é 100.
+(e) Sequencia de fibonacci, a resposta é 13.
+(f) Cada número começa com a letra D, a resposta é 200.
